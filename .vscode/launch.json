@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "scaler_ba670753"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Run Main",
+            "mainClass": "advDSA.Main",
+            "cwd": "${workspaceFolder}/src",
+            "console": "integratedTerminal"
+        }
+    ]
+}
